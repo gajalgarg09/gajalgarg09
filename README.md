@@ -1,13 +1,13 @@
-👋**Hey there I'm Gajal**
+👋**Hey there I'm Gajal** <br>
 🔹 BTech Student | Web Dev Intern | ML Enthusiast <br>
 🔹 Passionate about machine learning & making things easier with AI 🤖 <br>
 🔹 Love solving C++ challenges & working on real-world data-driven projects 📊 <br>
 
-🚀 What I’m Currently Working On <br>
+🚀**What I’m Currently Working On** <br>
 🔹 Building a Fake Job Posting Detector using ML & Web Scraping 🕵️‍♂️ <br>
 🔹 Exploring NLP & data analysis for impactful solutions <br>
 
-💡 What I Love <br>
+💡**What I Love** <br>
 ✨ Machine Learning – The possibilities excite me! <br>
 ✨ Problem-Solving – I enjoy tackling coding challenges in C++ <br>
 ✨ Web Development – Creating intuitive & data-driven applications <br>
