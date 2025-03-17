@@ -11,7 +11,8 @@
 ✨ Machine Learning – The possibilities excite me! <br>
 ✨ Problem-Solving – I enjoy tackling coding challenges in C++ <br>
 ✨ Web Development – Creating intuitive & data-driven applications <br>
-📫 Let’s Connect! <br>
+
+📫**Let’s Connect!** <br>
 🔗 LinkedIn: www.linkedin.com/in/gajal-garg-0252a8255 <br>
 💬 Always up for a discussion on ML, AI, and cool projects! <br>
 
