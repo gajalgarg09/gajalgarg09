@@ -1,4 +1,4 @@
-👋 Hey there! I'm Gajal  <br>
+👋**Hey there I'm Gajal**
 🔹 BTech Student | Web Dev Intern | ML Enthusiast <br>
 🔹 Passionate about machine learning & making things easier with AI 🤖 <br>
 🔹 Love solving C++ challenges & working on real-world data-driven projects 📊 <br>
