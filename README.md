@@ -4,7 +4,7 @@
 🔹 Love solving C++ challenges & working on real-world data-driven projects 📊 <br>
 
 🚀**What I’m Currently Working On** <br>
-🔹 Building a Handwritten Equation Solver <br>
+🔹 Building a Handwritten Equation Solver using Neural Network <br>
 🔹 Exploring NLP & data analysis for impactful solutions <br>
 
 💡**What I Love** <br>
