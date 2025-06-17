@@ -1,4 +1,4 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=gajalgarg09)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=gajalgarg09) <br>
 👋**Hey there I'm Gajal** <br>
 🔹 BTech Student | Web Dev Intern | ML Enthusiast <br>
 🔹 Passionate about machine learning & making things easier with AI 🤖 <br>
